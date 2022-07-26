@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T08:28:27.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" version="20.1.3" etag="56vGA-hDbpVp8hn5viZ_" type="github"><diagram id="uPYNqcDJ3nfIJLlUU_LL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-26T08:32:55.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="ejAdzh-1LNY_V5s9UJn8" version="20.1.3" type="github">
+  <diagram id="uPYNqcDJ3nfIJLlUU_LL" name="第 1 页">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SMqwoqyIC6XuW39lMCPQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="320" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="SMqwoqyIC6XuW39lMCPQ-2" value="Manager" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SMqwoqyIC6XuW39lMCPQ-3" value="RPCServer" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SMqwoqyIC6XuW39lMCPQ-4" value="RestServer" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SMqwoqyIC6XuW39lMCPQ-7" value="可观测性&lt;br&gt;与Daemon相同" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="195" y="400" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="SMqwoqyIC6XuW39lMCPQ-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;rpc&lt;/font&gt;" style="shape=singleArrow;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SMqwoqyIC6XuW39lMCPQ-9" value="http" style="shape=singleArrow;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
