@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T06:49:55.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" version="20.1.3" etag="iFm3OcXdSciqMSKnhaBT" type="github"><diagram id="HB-ddc2gaKGzPNrlTMqs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-27T06:58:35.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="RiuK85naOHRpkcRJgw7_" version="20.1.3" type="github">
+  <diagram id="HB-ddc2gaKGzPNrlTMqs" name="第 1 页">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-1" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="710" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-2" value="RPC" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="W_qfXs-O6V0qeeO_jheQ-3" target="W_qfXs-O6V0qeeO_jheQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-3" value="StatTask" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="W_qfXs-O6V0qeeO_jheQ-4" target="W_qfXs-O6V0qeeO_jheQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-4" value="LeaveTask" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="W_qfXs-O6V0qeeO_jheQ-5" target="W_qfXs-O6V0qeeO_jheQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-5" value="AnnouceTask" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-6" value="检查内存中是否保存task" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="W_qfXs-O6V0qeeO_jheQ-8" target="W_qfXs-O6V0qeeO_jheQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-8" value="删除内存中的peer" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-9" value="重新调度它的孩子" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W_qfXs-O6V0qeeO_jheQ-12" value="更新内存中peer/task/host信息，维护状态机状态" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="220" width="240" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
